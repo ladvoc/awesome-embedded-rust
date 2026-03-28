@@ -895,6 +895,7 @@ Otherwise, please add it to the [WIP section](#wip) below.
 1. [i2c-multiplexer] - I2C - An I2C Multiplexer library that supports the PCA9546 and TCA9546A chips - [github][71] - [![crates.io](https://img.shields.io/crates/v/i2c-multiplexer.svg)](https://crates.io/crates/i2c-multiplexer)
 1. [SHT31-rs] - I2C - Fully supported SHT temperature / humidity sensors - [github][72] - [![crates.io](https://img.shields.io/crates/v/sht31.svg)](https://crates.io/crates/sht31)
 1. [AP33772S-rs] - I2C - no-std sync and async compatible rust driver for the AP33772S USB C Power Delivery with Extended Power Range I2C chip - [github][76] - [![crates.io](https://img.shields.io/crates/v/ap33772s-rs.svg)](https://crates.io/crates/ap33772s-rs)
+1. [TCA9554] - I2C - Driver for the TCA9554(A) I/O expander - [![crates.io](https://img.shields.io/crates/v/tca9554.svg)](https://crates.io/crates/tca9554)
 
 [1&2]: http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/
 [3]: http://pramode.in/2018/02/24/an-introduction-to-writing-embedded-hal-based-drivers-in-rust/
@@ -1058,6 +1059,7 @@ Otherwise, please add it to the [WIP section](#wip) below.
 [i2c-multiplexer]: https://crates.io/crates/i2c-multiplexer
 [SHT31-rs]: https://crates.io/crates/sht31
 [AP33772S-rs]: https://crates.io/crates/ap33772s-rs
+[TCA9554]: https://crates.io/crates/tca9554
 
 *NOTE* You may be able to find even more driver crates by searching for the [`embedded-hal-driver`]
 keyword on crates.io!
